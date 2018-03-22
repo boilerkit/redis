@@ -1,0 +1,11 @@
+{
+    "name": "boilerkit/redis",
+    "description": "redis",
+    "authors": [
+        {
+            "name": "Branden Garrett",
+            "email": "branden.garrett@gmail.com"
+        }
+    ],
+    "require": {}
+}
